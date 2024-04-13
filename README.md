@@ -2,7 +2,7 @@
 
 Prioritize-Me is a simple yet powerful todo list application that helps you stay organized and on top of your tasks. With its clean and intuitive interface, you can easily manage your daily to-dos, prioritize tasks, and boost your productivity.
 
-![Prioritize-Me App](prioritize-me.png)
+![Prioritize-Me App](/src/assets/prioritise-me.png)
 
 ## Features
 
